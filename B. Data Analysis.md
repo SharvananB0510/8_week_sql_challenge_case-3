@@ -181,8 +181,8 @@ WHERE p.plan_name = 'pro annual'
   AND YEAR(s.start_date) = 2020;
 ```
 Customer_count|
---------------
-195
+--------------|
+195|
 
 ## 9. How many days on average does it take for a customer to an annual plan from the day they join Foodie-Fi?
 
